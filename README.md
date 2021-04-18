@@ -1,14 +1,3 @@
-# Exercise-06c-Dialogue
-Exercise for MSCH-C220, 12 April 2021
-
-A demonstration of this exercise is available at [https://youtu.be/M0GJIYTUXjQ](https://youtu.be/M0GJIYTUXjQ)
-
-This exercise is an opportunity for you to experiment with an open source Godot Dialogue add-on called Dialogic. Dialogic has [recently been released](https://dialogic.coppolaemilio.com/) as a 1.0. It is still a little buggy around the edges, but it is a powerful system for creating and introducing dialogue systems into your games.
-
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06c-Dialogue. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
-
-Clone the repository to a Local Path on your computer.
-
 Open Godot. Import the project.godot file and open the "Dialogue" project.
 
 Dialogic is released as a Godot add-on. I have already downloaded the plug-in and included it in the res://addon folder in this repository. If you get an immmediate error message, that is an indication that the addon needs to be enabled. This can be done in Project->Project Settings->Plugins and checking the Dialogic Enable box.
@@ -68,5 +57,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Gwen Hall
